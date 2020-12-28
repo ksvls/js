@@ -1,4 +1,4 @@
-# JavaScript
+# Selamat Datang
 
 ## Apa itu JavaScript?
 
