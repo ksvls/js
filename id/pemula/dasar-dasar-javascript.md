@@ -51,7 +51,7 @@ Namun, menjadi terbiasa dengan JavaScript lebih menantang daripada merasa nyaman
     </script>
     ```
 3. Pastikan file HTML disimpan. Kemudian muat index.html di browser Anda. Anda akan melihat sesuatu seperti ini:
-```img.exe not found```
+    ![Hello World](https://raw.githubusercontent.com/ksvls/js/gh-pages/img/helloWorld.jpg)
 
 ## `Apa Yang Terjadi?`
 
