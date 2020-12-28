@@ -18,6 +18,6 @@ Jangan bingung antara JavaScript dengan bahasa pemrograman Java. Baik "Java" dan
 
 ### Untuk Pemula
 1. [Dasar-dasar JavaScript](https://ksvls.github.io/js/id/pemula/dasar-dasar-javascript)
-2. [Langkah pertama JavaScript!]()
-3. [Blok penyusun JavaScript!]()
-4. [Memperkenalkan objek JavaScript]()
+2. [Langkah pertama JavaScript]() // Belum jadi
+3. [Blok penyusun JavaScript]() // Belum jadi
+4. [Memperkenalkan objek JavaScript]() // Belum jadi
