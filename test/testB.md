@@ -1,3 +1,5 @@
 ---
-permalink: /testB.html
+permalink: /test/testB.html
 ---
+
+testB
